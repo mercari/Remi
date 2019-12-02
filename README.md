@@ -16,7 +16,7 @@
 | ![](assets/png/Remi_asset_sleeping.png) | | |
 
 
-# Licencese
+# License
 
 Remi by tottie is licensed under "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)"
 
